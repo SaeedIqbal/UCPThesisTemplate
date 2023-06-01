@@ -7,4 +7,4 @@ Please change your name, title, abstract, department, university, acknowledgment
 
 For compilation use "XeLaTeX" in texstudio (LaTeX IDE)
 
-Download texstudio from here (https://www.texstudio.org/)
+Download texstudio: https://www.texstudio.org/
