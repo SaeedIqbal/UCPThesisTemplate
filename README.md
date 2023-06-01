@@ -5,4 +5,5 @@ By using this template, you can focus on the content of your thesis while the fo
 
 Please change your name, title, abstract, department, university, acknowledgment, dedication and supervisor in the file of thesis.tex.
 
-For compilation use "XeLaTeX"
+For compilation use "XeLaTeX" in texstudio (LaTeX IDE)
+Download texstudio from here (https://www.texstudio.org/)
