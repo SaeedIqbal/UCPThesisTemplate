@@ -1,0 +1,263 @@
+\PassOptionsToPackage{square,numbers,sort}{natbib}
+\documentclass[numbers=noenddot, headsepline, footsepline,headings=small,
+listof=totoc,listof=nochaptergap,listof=flat,index=totoc]{ucpThesis}
+\makeatletter
+\@addtoreset{example}{chapter}
+\makeatother
+\department{Department of Computer Science}
+\faculty{Faculty of Information Technology \& Computer Science}
+\degreeyear{2023}
+\degreemonth{May}
+\DegreeName{Doctor Of Philosophy}
+\ProgName{Computer Science}
+\university{University of Central Punjab}
+\campuscity{Lahore}
+\authorone{Saeed Iqbal}{L1F16PHDC0002}
+\supervisor{Dr. Adnan N. Qureshi}
+\designation{Associate Professor}
+\externalexaminerOne{Dr. Iram Noreen} % 
+\externalexaminerTwo{Dr. Mubashar Mushtaq}
+\internalexaminer{Dr. Muhammad Sarwar Ehsan}
+\deanname{Dr. Muhammad Amjad Iqbal}
+\title{Adaptive Self-learning Systems for Medical Image Analyses using Hybrid-Dense Convolutional Neural Network}
+\begin{document}
+\cleardoublepage
+\pagenumbering{Roman}	
+\addcontentsline{toc}{chapter}{\uppercase{ABSTRACT}}
+\begin{abstract}
+	\lipsum[1]
+\end{abstract}
+%\cleardoublepage
+\begin{dedication}
+	\begin{doublespace}	
+		\begin{center}
+			To my beloved \textbf{father} who never saw this adventure.
+		\end{center} 
+	\end{doublespace}
+\end{dedication}
+%\cleardoublepage
+\addcontentsline{toc}{chapter}{\uppercase{ACKNOWLEDGEMENTS}}
+\begin{acknowledgements} 
+	\begin{doublespace}	
+			\lipsum[2]
+			\lipsum[1]
+	\end{doublespace}
+\end{acknowledgements}
+%\addcontentsline{toc}{chapter}{declaration}
+\begin{declaration} 
+% No text here..
+\end{declaration}
+%\addcontentsline{toc}{chapter}{plagiarism}
+\begin{plagiarism} 
+% No text here..
+\end{plagiarism}
+%\addcontentsline{toc}{chapter}{Research Completion}
+\begin{Research Completion} 
+% No text here..
+\end{Research Completion}
+%\addcontentsline{toc}{chapter}{Certificate Of Examiners}
+\begin{Certificate Of Examiners}
+% No text here..
+\end{Certificate Of Examiners}
+%\addcontentsline{toc}{chapter}{dedication}
+
+\clearpage
+%\makeatletter\renewcommand{\@dotsep}{20} \makeatother %decreasing dots...
+\renewcommand{\cfttoctitlefont}{\hspace*{\fill}\Huge\bfseries}
+\renewcommand{\cftaftertoctitle}{\hspace*{\fill}}
+\renewcommand{\cftlottitlefont}{\hspace*{\fill}\Huge\bfseries}
+\renewcommand{\cftafterlottitle}{\hspace*{\fill}}
+\renewcommand{\cftloftitlefont}{\hspace*{\fill}\Huge\bfseries}
+\renewcommand{\cftafterloftitle}{\hspace*{\fill}}
+
+%\newcommand{\cftmarklof}{\@mkboth{\MakeUppercase\listfigurename}{\MakeUppercase\listfigurename}}
+
+\makeatletter\renewcommand{\cftdotsep}{2} \makeatother %increasing dotsss.............
+\clearpage\tableofcontents
+\cleardoublepage
+%\renewcommand{\listoffigures}{LIST OF FIGURES}
+\renewcommand{\listfigurename}{LIST OF FIGURES}
+\clearpage\listoffigures
+%\addcontentsline{toc}{chapter}{\uppercase{LIST OF FIGURES}}
+\cleardoublepage
+\renewcommand{\listtablename}{LIST OF TABLES}
+\clearpage\listoftables
+%\addcontentsline{toc}{chapter}{\uppercase{LIST OF TABLES}}
+\cleardoublepage
+% Customized List of Tables
+%\clearpage\listofexample
+%\chapter{Two examples}
+%\example{Your first example}
+%\label{1st_ex}
+%\example{Your second example}
+%\label{2nd_ex}
+%\chapter{One example}
+%\example{Your third example. (See example \ref{1st_ex} and \ref{2nd_ex})}
+%.....End of Customized LoExample...............................
+%\section{List of abbreviations}
+\newpage
+
+\clearpage
+\DTLnewdb{acronyms}
+
+\addacronym{SCLC}{Small Cell Lung Cancer}
+\addacronym{NSCLC}{Non Small Cell Lung Cancer}
+\addacronym{CAD}{Computer Aided Diagnosis}
+\addacronym{CT}{Computer Tomography}
+\addacronym{ROI}{Region of Interest}
+\addacronym{EM}{Expectation Maximization}
+\addacronym{FCM}{Fuzzy C-Means}
+\addacronym{NCC}{Normalized Cross Correlation}
+\addacronym{SSD}{Sum of Squared Difference}
+\addacronym{SAD}{Sum of Absolute Difference}
+\addacronym{FLDA}{Fisher Linear Discriminant Analysis}
+\addacronym{GGO}{Ground Glass Opacity}
+\addacronym{SI}{Shape Index}
+\addacronym{LSM}{Level Set Method}
+\addacronym{ACM}{Active Contour Model}
+\addacronym{SIFT}{Scale-Invariant Feature Transform}
+\addacronym{SURF}{Speeded Up Robust Feature}
+\addacronym{HOG}{Histogram of Oriented Gradients}
+\addacronym{CNN}{Convolutional Neural Network}
+\addacronym{APPA}{Adversarial Pyramid Progressive Attention}
+\addacronym{RNN}{Recurrent Neural Network}
+\addacronym{CXR}{Chest X-ray}
+\addacronym{JSRT}{Japanese Society of Radiological Technology}
+\addacronym{PVSSM}{Pixel Value Space Statistics Map}
+\addacronym{AUC}{Area Under Curve}
+\addacronym{DSC}{Dice Similarity Coefficient}
+\addacronym{SVM}{Support Vector Machine}
+\addacronym{SCM}{Systematical Co-occurrence Matrix}
+\addacronym{RF}{Random Forest}
+\addacronym{DPN}{Dual Path Network}
+\addacronym{DQN}{Deep Q-Networks}
+\addacronym{RT}{Radio-Therapy}
+\addacronym{KNN}{K-Nearest Neighbor}
+\addacronym{FC}{Fully Connected}
+\addacronym{GLCM}{Gray Level Co-occurrence Matrix}
+\addacronym{SZM}{Size Zone Matrix}
+\addacronym{RLM}{Run Length Matrix}
+\addacronym{SE}{Structural Element}
+\addacronym{BraTS}{Brain Tumor Segmentation}
+\addacronym{PC}{Papillary Carcinoma}
+\addacronym{TA}{Tubular Adenona}
+\addacronym{PT}{Phyllodes Tumor}
+\addacronym{BO}{Bayesian Optimization}
+\addacronym{AHT}{Adaptive Hyperparameter Tuning}
+\addacronym{GP}{Gaussian Process}
+\addacronym{TPE}{Tree Parzen Estimators}
+\addacronym{EI}{Expected Improvement}
+\addacronym{GLPP}{GLocal Pyramid Pattern}
+\addacronym{RPN}{Region Proposal Network}
+\addacronym{FPN}{Feature Pyramid Network}
+\addacronym{LO}{Label Optimizer}
+\addacronym{LBPCNN}{Local Binary Pattern Convolutional Neural Network}
+\addacronym{LBP}{Local Binary Pattern}
+\addacronym{SCC}{Squamous Cell Carcinoma}
+\addacronym{BCC}{Basal Cell Carcinoma}
+\addacronym{DCT}{Discrete Cosine Transform}
+\addacronym{ABCD}{Asymmetry, Boundary irregularity, Color and Diameter}
+%\addacronym{HoG}{Histogram of Oriented Gradients}
+%\addacronym{GLCM}{Gray-Level Occurrence Matrix}
+\addacronym{LSTM}{Long Short Term Memory}
+\addacronym{WSI}{Whole-Slide Imaging}
+\addacronym{H\&E}{Hematoxylin and Eosin}
+\addacronym{MFCG}{Manual Feature based Classification and Segmentation}
+\addacronym{BI}{Bilinear Interpolation}
+% Sort the database
+\DTLsort*{Acronym}{acronyms}
+
+% Display the contents of the database
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\small{LIST OF ABBREVIATIONS AND ACRONYMS}}
+\clearpage
+\begin{listOfAbAc}
+	\DTLsort{Acronym}{acronyms}
+\begin{longtable}{ll}
+	\DTLforeach*{acronyms}{\thisAcronym=Acronym,\thisDesc=Description}%
+	{\large \textbf{\thisAcronym} &  \hspace{4em}{\large \thisDesc} \vspace{-0.25em} \\}
+	\end{longtable}
+\clearpage
+\end{listOfAbAc}
+\clearpage
+
+\DTLnewdb{symbols}
+\addsymbol{\textit{x$_{i}$}}{represents variables (pixel values)}
+\addsymbol{\textit{w$_{i}$}}{random weights}
+\addsymbol{\textit{b}}{bias}
+\addsymbol{\textit{$\psi$}, \textit{$\mathfrak{F}$}}{activation function}
+\addsymbol{\textit{$\hat{y}$}}{prediction or approximation value}
+\addsymbol{\textit{$\theta$}}{training model parameters}
+\addsymbol{\textit{$\lambda$}}{strength of regularization}
+\addsymbol{\textit{L}}{Loss function}
+\addsymbol{\textit{W$^{[i]}$}}{CNN model parameters}
+\addsymbol{\textit{$\eta$}}{learning rate}
+\addsymbol{\textit{$\nu_{t}$}}{exponential averaged of gradient}
+\addsymbol{\textit{X}}{input image}
+\addsymbol{\textit{$\kappa$}}{Structural Element}
+\addsymbol{\textit{$\eta_{img}$}}{Top-Hat morphological operations}
+\addsymbol{\textit{$\tau_{img}$}}{Bottom-Hat morphological operations}
+\addsymbol{\textit{g$_{c}$}}{central value of gray images}
+\addsymbol{\textit{g$_{p}$}}{neighbor value of gray images}
+\addsymbol{\textit{P}}{total neighbor pixel values}
+\addsymbol{\textit{R}}{radius pixel values}
+\addsymbol{\textit{${F}$}}{number of input channels}
+\addsymbol{\textit{$\mu$}}{arithmetic mean}
+\addsymbol{\textit{$B$}}{set of minibatch} 
+\addsymbol{\textit{$\sigma^2$}}{statistical moment}
+\addsymbol{\textit{$\gamma$}}{parameters for scaling}
+\addsymbol{\textit{$\aleph^{o}$}}{magnified image}
+\addsymbol{\textit{$\ell$}}{lagrange multiplier}
+\addsymbol{\textit{$\nabla$}}{gradient of down-sampling}
+\addsymbol{\textit{${T}$}}{training dataset}
+\addsymbol{\textit{$\tau$}}{testing dataset}
+\addsymbol{\textit{$\sigma$}}{variance} 
+\addsymbol{\textit{$\hbar\prime$}}{stain normalized image}
+\addsymbol{\textit{$\psi$}}{saturation values}
+\addsymbol{\textit{$\nu$}}{stain vector}
+\addsymbol{\textit{coord($\varphi$)}}{slice of an image}
+\addsymbol{\textit{$\varphi_{m}$}}{mitotic or malignant region}
+\addsymbol{\textit{$\varphi_{o}$}}{background of a slice}
+\addsymbol{\textit{H($\varphi(x)$)}}{Heaviside function for smoothness}
+\addsymbol{\textit{C$_{\oplus}(p_{i})$}}{clock-wise extracted features}
+\addsymbol{\textit{C$^{'}_{\oplus}(p_{i})$}}{anti-clockwise features}
+\addsymbol{\textit{a$_{fc}$}}{actual cost}
+\addsymbol{\textit{n$_{fc}$}}{network predicted cost}
+\addsymbol{\textit{$\upsilon_{i,j}^{l}$}}{input vector of a layer}
+\DTLsort*{Symbol}{symbols}
+
+% Display the contents of the database
+\clearpage
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\small{LIST OF SYMBOLS}}
+\begin{listOfSymbol}
+	\DTLsort{Symbol}{symbols}
+	\begin{longtable}{ll}
+		\DTLforeach*{symbols}{\thisSymbol=Symbol,\thisDesc=Description}%
+		{\large \textbf{\thisSymbol} &  \hspace{4em}{\large \thisDesc} \vspace{-0.15em} \\}
+	\end{longtable}
+\end{listOfSymbol}
+\clearpage
+
+\cleardoublepage
+\pagenumbering{arabic}
+\cleardoublepage\include{chapter1/chapter1}
+\cleardoublepage\include{chapter2/chapter2}
+\cleardoublepage\include{chapter3/chapter3}
+%\cleardoublepage\include{chapter4/chapter4}
+%\cleardoublepage\include{chapter5/chapter5}
+%\cleardoublepage\include{chapter6/chapter6}
+%\cleardoublepage\include{chapter7/chapter7}
+%\cleardoublepage\include{chapter8/chapter8}
+%\cleardoublepage\include{chapter9/chapter9}
+\cleardoublepage\include{conclusions/conclusions}
+\bibliographystyle{plainnat}
+\bibliography{thbib} 
+%\cleardoublepage
+
+%\cleardoublepage
+%\addcontentsline{toc}{chapter}{\appendixname} 
+%\renewcommand\thesection{1.\arabic{section}}
+%\renewcommand{\thefigure}{A.\arabic{figure}}
+%\cleardoublepage\appendix\input{appendics/appendicsA}%\label{appendix:dataset}
+\end{document}

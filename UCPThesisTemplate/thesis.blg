@@ -1,0 +1,609 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: chapter1/chapter1.aux
+A level-1 auxiliary file: chapter2/chapter2.aux
+A level-1 auxiliary file: chapter3/chapter3.aux
+A level-1 auxiliary file: conclusions/conclusions.aux
+The style file: plainnat.bst
+I found no \citation commands---while reading file thesis.aux
+Database file #1: thbib.bib
+I was expecting a `,' or a `}'---line 141 of file thbib.bib
+ :  author={Tikhonov, Andre{\u\i}} 
+ :                                 Nikolaevich and Arsenin, Vasilij Ja and Arsenin, Vasili{\u\i}} I︠A︡kovlevich and Arsenin, Vasiliy Y and others},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3751 of file thbib.bib
+ :  
+ :  note = "\url{http://www.qqq.com}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3767 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2013}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3783 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2015}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3799 of file thbib.bib
+ :  
+ :  note = "\url{https://sites.google.com/site/braintumorsegmentation/home/brats_2016}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3815 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2017.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3831 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2018.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3847 of file thbib.bib
+ :  
+ :  note = "\url{https://www.ukbiobank.ac.uk/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3863 of file thbib.bib
+ :  
+ :  note = "\url{https://challenge2018.isic-archive.com/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3879 of file thbib.bib
+ :  
+ :  note = "\url{https://cdas.cancer.gov/plco/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3895 of file thbib.bib
+ :  
+ :  note = "\url{https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3911 of file thbib.bib
+ :  
+ :  note = "\url{http://www.miccai.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3927 of file thbib.bib
+ :  
+ :  note = "\url{https://mitos-atypia-14.grand-challenge.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4585 of file thbib.bib
+ :  
+ :  %asdfasd
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10605 of file thbib.bib
+ :  
+ :  note = "\url{http://www.qqq.com}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10621 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2013}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10637 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2015}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10653 of file thbib.bib
+ :  
+ :  note = "\url{https://sites.google.com/site/braintumorsegmentation/home/brats_2016}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10669 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2017.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10685 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2018.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10701 of file thbib.bib
+ :  
+ :  note = "\url{https://www.ukbiobank.ac.uk/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10717 of file thbib.bib
+ :  
+ :  note = "\url{https://challenge2018.isic-archive.com/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10733 of file thbib.bib
+ :  
+ :  note = "\url{https://cdas.cancer.gov/plco/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10749 of file thbib.bib
+ :  
+ :  note = "\url{https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10765 of file thbib.bib
+ :  
+ :  note = "\url{http://www.miccai.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10781 of file thbib.bib
+ :  
+ :  note = "\url{https://mitos-atypia-14.grand-challenge.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11439 of file thbib.bib
+ :  
+ :  %asdfasd
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15795 of file thbib.bib
+ :  
+ :  note = "\url{http://www.qqq.com}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15811 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2013}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15827 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2015}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15843 of file thbib.bib
+ :  
+ :  note = "\url{https://sites.google.com/site/braintumorsegmentation/home/brats_2016}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15859 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2017.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15875 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2018.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15891 of file thbib.bib
+ :  
+ :  note = "\url{https://www.ukbiobank.ac.uk/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15907 of file thbib.bib
+ :  
+ :  note = "\url{https://challenge2018.isic-archive.com/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15923 of file thbib.bib
+ :  
+ :  note = "\url{https://cdas.cancer.gov/plco/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15939 of file thbib.bib
+ :  
+ :  note = "\url{https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15955 of file thbib.bib
+ :  
+ :  note = "\url{http://www.miccai.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15971 of file thbib.bib
+ :  
+ :  note = "\url{https://mitos-atypia-14.grand-challenge.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 16629 of file thbib.bib
+ :  
+ :  %asdfasd
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19653 of file thbib.bib
+ :  
+ :  note = "\url{http://www.qqq.com}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19669 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2013}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19685 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2015}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19701 of file thbib.bib
+ :  
+ :  note = "\url{https://sites.google.com/site/braintumorsegmentation/home/brats_2016}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19717 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2017.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19733 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2018.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19749 of file thbib.bib
+ :  
+ :  note = "\url{https://www.ukbiobank.ac.uk/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19765 of file thbib.bib
+ :  
+ :  note = "\url{https://challenge2018.isic-archive.com/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19781 of file thbib.bib
+ :  
+ :  note = "\url{https://cdas.cancer.gov/plco/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19797 of file thbib.bib
+ :  
+ :  note = "\url{https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19813 of file thbib.bib
+ :  
+ :  note = "\url{http://www.miccai.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19829 of file thbib.bib
+ :  
+ :  note = "\url{https://mitos-atypia-14.grand-challenge.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 20487 of file thbib.bib
+ :  
+ :  %asdfasd
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 21705 of file thbib.bib
+ :  year={2018}
+ :             .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 21717 of file thbib.bib
+ :  publisher={IARC Press, International Agency for Research on Cancer}
+ :                                                                     .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 21757 of file thbib.bib
+ :  publisher={IEEE}
+ :                  .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23665 of file thbib.bib
+ :  
+ :  year  ={2010}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23677 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23773 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23785 of file thbib.bib
+ :  
+ :  year  ={2008},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23797 of file thbib.bib
+ :  
+ :  year  ={2007},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23811 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23823 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 26435 of file thbib.bib
+ :  year={2018}
+ :             .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 26447 of file thbib.bib
+ :  publisher={IARC Press, International Agency for Research on Cancer}
+ :                                                                     .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 26487 of file thbib.bib
+ :  publisher={IEEE}
+ :                  .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28395 of file thbib.bib
+ :  
+ :  year  ={2010}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28407 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28503 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28515 of file thbib.bib
+ :  
+ :  year  ={2008},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28527 of file thbib.bib
+ :  
+ :  year  ={2007},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28541 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28553 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31363 of file thbib.bib
+ :  publisher={International Society for Optics and Photonics}
+ :                                                            .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31385 of file thbib.bib
+ :  publisher={Springer}
+ :                      .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31407 of file thbib.bib
+ :  publisher={IEEE}
+ :                  .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31421 of file thbib.bib
+ :  school={Monash University}
+ :                            .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31433 of file thbib.bib
+ :  publisher={Academic Press}
+ :                            .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31453 of file thbib.bib
+ :  publisher={Nature Publishing Group}
+ :                                     .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 31473 of file thbib.bib
+ :  publisher={Elsevier}
+ :                      .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32247 of file thbib.bib
+ :  
+ :  year  ={2010}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32259 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32355 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32367 of file thbib.bib
+ :  
+ :  year  ={2008},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32379 of file thbib.bib
+ :  
+ :  year  ={2007},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32393 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 32405 of file thbib.bib
+ :  
+ :  year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 34761 of file thbib.bib
+ :  year={2009}
+ :             .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37219 of file thbib.bib
+ :  
+ :  note = "\url{http://www.qqq.com}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37235 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2013}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37251 of file thbib.bib
+ :  
+ :  note = "\url{https://www.smir.ch/BRATS/Start2015}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37267 of file thbib.bib
+ :  
+ :  note = "\url{https://sites.google.com/site/braintumorsegmentation/home/brats_2016}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37283 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2017.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37299 of file thbib.bib
+ :  
+ :  note = "\url{https://www.med.upenn.edu/sbia/brats2018.html}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37315 of file thbib.bib
+ :  
+ :  note = "\url{https://www.ukbiobank.ac.uk/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37331 of file thbib.bib
+ :  
+ :  note = "\url{https://challenge2018.isic-archive.com/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37347 of file thbib.bib
+ :  
+ :  note = "\url{https://cdas.cancer.gov/plco/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37363 of file thbib.bib
+ :  
+ :  note = "\url{https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37379 of file thbib.bib
+ :  
+ :  note = "\url{http://www.miccai.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 37395 of file thbib.bib
+ :  
+ :  note = "\url{https://mitos-atypia-14.grand-challenge.org/}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 38053 of file thbib.bib
+ :  
+ :  %asdfasd
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43319 of file thbib.bib
+ : publisher={International Society for Optics and Photonics}
+ :                                                           .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43341 of file thbib.bib
+ : publisher={Springer}
+ :                     .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43363 of file thbib.bib
+ : publisher={IEEE}
+ :                 .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43377 of file thbib.bib
+ : school={Monash University}
+ :                           .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43389 of file thbib.bib
+ : publisher={Academic Press}
+ :                           .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43409 of file thbib.bib
+ : publisher={Nature Publishing Group}
+ :                                    .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43429 of file thbib.bib
+ : publisher={Elsevier}
+ :                     .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44271 of file thbib.bib
+ : 
+ : year  ={2010}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44283 of file thbib.bib
+ : 
+ : year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44379 of file thbib.bib
+ : 
+ : year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44391 of file thbib.bib
+ : 
+ : year  ={2008},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44403 of file thbib.bib
+ : 
+ : year  ={2007},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44417 of file thbib.bib
+ : 
+ : year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44429 of file thbib.bib
+ : 
+ : year  ={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 46785 of file thbib.bib
+ : year={2009}
+ :            .
+I'm skipping whatever remains of this entry
+You've used 0 entries,
+            2773 wiz_defined-function locations,
+            596 strings with 4919 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 7
+(There were 117 error messages)

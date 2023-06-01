@@ -1,0 +1,196 @@
+\chapter*{Appendices}\label{sec:appendices}
+\section{Common Datasets}\label{sec:commondataset}
+\begin{longtable}{|>{\arraybackslash}p{5cm}|>{\arraybackslash}p{6cm}|>{\arraybackslash}p{1.7cm}|>{\arraybackslash}p{2.3cm}|} \hline
+	
+	\renewcommand{\arraystretch}{0.7}% Tighter
+	\textbf{Dataset} & \textbf{Purpose} & \textbf{Anatomy} & \textbf{Modality} \\ \hline 
+	
+	Piglet~\cite{yi2018sharpness} &  Denoising & Whole body & CT \\
+	\hline
+	LDCT2016~\cite{mccollough2017low} & Denoising & Abdomen & CT \\
+	\hline
+	MICCAI2013~\cite{vanderbilt} & Organ segmentation & Abdomen, Pelvis & CT \\ \hline 
+	
+	LIDC-IDRI~\cite{xie2018fusing} &Lung cancer detection and diagnosis & Lung & CT  \\ \hline 
+	
+	DeepLesion\cite{yan2018deep} & Lesion segmentation & -- & CT \\ \hline 
+	
+	LiTS2017~\cite{CodaLab} & Liver tumor segmentation & Liver & CT \\ \hline 
+	
+	Spine~\cite{glocker2013vertebrae} & Vertebrate localization & Spine & CT \\ \hline 
+	
+	NSCLC-Radiomics~\cite{aerts2015data} & Radiomics & Lung & CT \\ \hline 
+	
+	MM-WHS~\cite{zhuang2016multi} & Whole heart segmentation & Heart & CT, MR \\ \hline 
+	
+	HVSMR 2016~\cite{pace2015interactive} & Whole heart and great vessel segmentation & Heart, Vessel & MR \\ \hline 
+	
+	IXI Dataset~\cite{IXI} & Analysis of brain development & Brain & MR \\ \hline 
+	
+	DSB2015~\cite{dsb} & End-systolic/diastolic volumes measurement & Heart & MR \\ \hline 
+	
+	Mridata~\cite{mrid} & MRI reconstruction & Knee & MR \\ \hline 
+	
+	Ski10~\cite{ski10} & Cartilage and bone segmentation & Knee & MR \\ \hline 
+	
+	BrainLes~\cite{crimi2019brainlesion} & Lesion segmentation & Brain & MR \\ \hline 
+	
+	ADNI~\cite{adni} & Alzheimer's disease neuroimaging Initiative & Brain & MR, PET \\ \hline 
+	
+	MAL~\cite{vanderbilt} & Brain structure segmentation & Brain & MR \\ \hline 
+	
+	BRATS2013~\cite{BRATS2013,menze2014multimodal} & Gliomas segmentation & Brain & MR \\ \hline 
+	
+	BRATS2015~\cite{BRATS2015} & Gliomas segmentation & Brain & MR \\ \hline 
+	
+	BRATS2016~\cite{BRATS2016} & Gliomas segmentation & Brain & MR \\ \hline 
+	
+	BRATS2017~\cite{BRATS2017} & Gliomas segmentation, overall survival prediction & Brain & MR \\ \hline 
+	
+	BRATS2018~\cite{BRATS2018} & Gliomas segmentation, overall survival prediction & Brain & MR \\ \hline 
+	MIDAS~\cite{bullitt2005vessel} & Assessing the effects of healthy aging & Brain & MR \\ \hline 
+	
+	BLSA~\cite{resnick2003longitudinal} & Baltimore longitudinal study of aging & Brain & MR \\ \hline 
+	
+	HCP~\cite{van2012human} & Human connectome project & Brain & MR \\ \hline 
+	
+	iSeg2017~\cite{wang2019benchmark} & Infant brain tissue segmentation & Brain & MR \\ \hline 
+	
+	UK Biobank~\cite{ukbiobank} & UK Biobank is a national and international health resource & Brain, Heart, Body & MR \\ \hline 
+	
+	ISIC2016~\cite{gutman2016skin} & Skin lesion analysis &Skin & Dermoscopy \\ \hline 
+	
+	ISIC2017~\cite{codella2018skin} & Skin lesion analysis & Skin &  Dermoscopy \\ \hline 
+	
+	ISIC2018~\cite{ISIC2018} & Skin lesion analysis & Skin & Dermoscopy \\ \hline 
+	
+	PH2~\cite{mendonca2015ph2} & Skin lesion analysis & Skin & Dermoscopy \\ \hline 
+	
+	Dermofit~\cite{ballerini2013color} & Skin lesion analysis & Skin & Dermoscopy \\ \hline 
+	
+	Montgomery\cite{jaeger2014two} & Pulmonary disease detection & Chest & X-Ray \\ \hline 
+	
+	JSRT~\cite{shiraishi2000development} & Pulmonary nodule detection & Chest & X-Ray \\ \hline 
+	
+	NIH PLCO~\cite{PLCO} & Cancer screening trial for Prostate, lung, Colorectal and ovarian (PLCO)& -- & X-ray; Digital pathology \\ \hline 
+	
+	CBTC2015~\cite{MICCAI2015} & Segmentation of nuclei & Nuclei & Digital pathology \\ \hline 
+	
+	CPM2017~\cite{miccai2017} & Segmentation of nuclei & Nuclei & Digital pathology \\ \hline 
+	
+	MITOS-ATYPIA~\cite{mitos2014} & Mitosis detection; Nuclear atypia score evaluation & Breast & Digital pathology \\ \hline 
+	
+	GlaS~\cite{sirinukunwattana2017gland} & Gland segmentation & Colon & Digital pathology \\ \hline 
+	
+	OCHD~\cite{kobel2010diagnosis} & Carcinoma subtype prediction & Ovary & Digital pathology \\ \hline 
+	
+	Camelyon16~\cite{bejnordi2017diagnostic} & Lymph node metastases detection & Breast & Digital pathology \\ \hline 
+	Neslihan~\cite{bayramoglu2017towards} & Virtual H\&E staining & Lung & Digital pathology \\ \hline 
+	BreakHis~\cite{spanhol2016breast} & Breast Cancer Histopathological Database (BreakHis) & Breast &  Digital pathology \\ \hline
+	CellDetect~\cite{kainz2015you} & Cell detection & Bone marrow & Digital pathology \\ \hline 
+	
+	DRIVE~\cite{staal2004ridge} & Blood vessels segmentation & Eye & Fundus imaging \\ \hline 
+	
+	STARE~\cite{hoover2003locating} & Structural analysis of the retina & Eye & Fundus Imaging \\ \hline 
+	
+	HRF~\cite{budai2013robust} & Image quality assessment, segmentation & Eye & Fundus Imaging \\ \hline 
+	
+	Messidor~\cite{decenciere2014feedback} & Segmentation in retinal ophthalmology & Eye & Fundus Imaging \\ \hline 
+	
+	DRiDB~\cite{prentavsic2013diabetic} & Diabetic retinopathy detection & Eye & Fundus Imaging \\ \hline 
+	
+	DIARETDB1~\cite{kalviainen2007diaretdb1} & Diabetic retinopathy detection & Eye & Fundus Imaging \\ \hline 
+	
+	RIM-ONE~\cite{fumero2011rim} & Optic nerve head segmentation & Eye  & Fundus Imaging \\ \hline 
+	
+	I3A~\cite{hobson2015benchmarking} & HEp-2 cell classification & Skin & Fluorescent microscopy \\ \hline 
+	
+	MIVIA-HEp-2~\cite{hobson2016hep} & cell segmentation & Skin & Fluorescent microscopy \\ \hline 
+	
+	IVUS~\cite{balocco2014standardized} & Vessel inner and outer wall border detection & Blood Vessel & Ultrasound \\ \hline 
+	
+	INbreast~\cite{moreira2012inbreast} & Mass segmentation & Breast & Mammography \\ \hline 
+	
+	DDSM-BCRP~\cite{heath1998current} & Mass segmentation & Breast & Mammography \\ \hline
+	\caption{Common datasets of Medical images which are publicly available }
+	\label{datasets}
+\end{longtable}
+\newpage
+\section{Publication Details and Copyright Permission\label{appendixB}}
+The publication details such as online availability of my published works, HJRS details regarding journal ranking or categorization and copyright permissions for~\cref{ch:chapter5},~\cref{ch:chapter6},~\cref{ch:chapter7}, and~\cref{ch:chapter8} is shown below.
+% TODO: \usepackage{graphicx} required
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/lbpcnn}
+	\caption{Online availability of my published~\cref{ch:chapter5}.}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/cmc}
+	\caption{The details of Computers, Materials \& Continua (CMC) journal according to HEC Journal Recognition System (HJRS)}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{images/cmc}
+	\caption{The copyright permissions for~\cref{ch:chapter5}.}
+	\label{fig:cmc}
+\end{figure}
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/deep-hist}
+	\caption{Online availability of my published~\cref{ch:chapter6}.}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/jifs}
+	\caption{The details of Journal of Intelligent \& Fuzzy Systems (JIFS) journal according to HEC Journal Recognition System (HJRS)}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+
+\begin{figure}[!b]
+	\centering
+	\includegraphics[width=1.0\linewidth]{images/jifs}
+	\caption{The copyright permissions for~\cref{ch:chapter6}.}
+	\label{fig:jifs}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/breastunet}
+	\caption{Online availability of my published~\cref{ch:chapter7}.}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/ieeeaccess}
+	\caption{The details of IEEE Access journal according to HEC Journal Recognition System (HJRS)}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[!b]
+	\centering
+	\includegraphics[width=1.0\linewidth]{images/ieeeaccess}
+	\caption{The copyright permissions for~\cref{ch:chapter7}.}
+	\label{fig:ieeeaccess}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/aht}
+	\caption{Online availability of my published~\cref{ch:chapter8}.}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{ThesisFigs/images/appliedsciences}
+	\caption{The details of Applied Sciences journal according to HEC Journal Recognition System (HJRS)}
+	\label{fig:lbpcnnnnnnn}
+\end{figure}
+\begin{figure}[t]
+	\centering
+	\includegraphics[width=1.0\linewidth]{images/mdpi}
+	\caption{The copyright permissions for~\cref{ch:chapter8}.}
+	\label{fig:mdpi}
+\end{figure}

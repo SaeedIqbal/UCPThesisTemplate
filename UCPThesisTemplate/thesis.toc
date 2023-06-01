@@ -1,0 +1,17 @@
+~\hfill \textbf {}\par 
+\babel@toc {english}{}
+\contentsline {chapter}{\uppercase {ABSTRACT}}{I}{figure.caption.2}
+\contentsline {chapter}{\uppercase {ACKNOWLEDGEMENTS}}{III}{figure.caption.2}
+\contentsline {chapter}{LIST OF FIGURES}{IX}{section*.3}
+\contentsline {chapter}{LIST OF TABLES}{X}{section*.4}
+\contentsline {chapter}{\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {LIST OF ABBREVIATIONS AND ACRONYMS}}{XI}{section*.4}
+\contentsline {chapter}{\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {LIST OF SYMBOLS}}{XIII}{DTLrowi.1.62}
+\contentsline {chapter}{\numberline {1}Preliminaries and Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Going Deep in Machine Learning}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}What is Deep Machine Learning?}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Summary}{4}{section.2.2}
+\contentsline {chapter}{\numberline {3}State of the Art}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}Conclusions and Future Work}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Conclusion}{8}{section.4.1}
+\contentsline {chapter}{Bibliography}{10}{chapter*.5}
